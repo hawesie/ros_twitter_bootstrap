@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>ros_twitter_bootstrap</name>
-  <version>1.0.0</version>
+  <version>3.0.2</version>
   <description>The ros_twitter_bootstrap package</description>
 
   <maintainer email="n.a.hawes@cs.bham.ac.uk">Nick Hawes</maintainer>
