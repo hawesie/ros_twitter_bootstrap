@@ -1,20 +1,14 @@
 <?xml version="1.0"?>
 <package>
-  <name>ros_twitter_bootstrap</name>
+  <name>twitter_bootstrap</name>
   <version>3.0.2</version>
-  <description>The ros_twitter_bootstrap package</description>
+  <description>This package contains the source for Bootstrap and exposes it to catkin in a way that makes it useable within ROS nodes which create webpages. All code under bootstrap is licensed and authored according to the original documentation of that package. </description>
 
   <maintainer email="n.a.hawes@cs.bham.ac.uk">Nick Hawes</maintainer>
 
-
-  <!-- One license tag required, multiple allowed, one license per tag -->
-  <!-- Commonly used license strings: -->
-  <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
   <license>MIT</license>
 
-
   <url type="website">http://getbootstrap.com</url>
-
 
   <buildtool_depend>catkin</buildtool_depend>
 
