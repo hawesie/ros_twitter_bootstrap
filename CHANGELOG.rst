@@ -2,8 +2,8 @@
 Changelog for package twitter_bootstrap
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.1 (2014-10-23)
+------------------
 * added a bit more in README
 * added changelog
 * added install target
