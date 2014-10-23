@@ -4,6 +4,8 @@ Changelog for package twitter_bootstrap
 
 Forthcoming
 -----------
+* added a bit more in README
+* added changelog
 * added install target
 * added LICENSE
 * Merge branch 'master' of https://github.com/strands-project/twitter_bootstrap
