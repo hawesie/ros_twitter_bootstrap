@@ -2,8 +2,8 @@
 Changelog for package twitter_bootstrap
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2015-03-04)
+------------------
 * Merge pull request `#2 <https://github.com/strands-project/twitter_bootstrap/issues/2>`_ from hawesie/master
   Moving to bootstrap 3.3.2
 * Moving to bootstrap 3.3.2
