@@ -4,7 +4,7 @@
   <version>0.0.3</version>
   <description>This package contains the source for Bootstrap and exposes it to catkin in a way that makes it useable within ROS nodes which create webpages. All code under bootstrap is licensed and authored according to the original documentation of that package. </description>
 
-  <maintainer email="n.a.hawes@cs.bham.ac.uk">Nick Hawes</maintainer>
+  <maintainer email="nickh@robots.ox.ac.uk">Nick Hawes</maintainer>
 
   <license>MIT</license>
 
